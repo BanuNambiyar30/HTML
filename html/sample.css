@@ -1,0 +1,18 @@
+.box1{
+    border:5px dotted;
+    background-color: blueviolet;
+    padding: 15px;
+    background-clip: border-box;
+}
+.box2{
+    border: 5px dotted;
+    background-color: blueviolet;
+    padding: 15px;
+    background-clip:padding-box;
+}
+.box3{
+    border: 5px dotted;
+    background-color: blueviolet;
+    padding: 15px;
+    background-clip:content-box;
+}

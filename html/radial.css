@@ -1,0 +1,10 @@
+.grad {
+    height: 150px;
+    width: 200px;
+    background-color: red; 
+      background-image: radial-gradient(red, yellow, green); 
+     background-image: radial-gradient(red 5%, yellow 15%, green 60%); 
+     background-image: radial-gradient(circle, red, yellow, green); 
+     background-image: radial-gradient(closest-side at 60% 55%, red, yellow, black);  
+    background-image: repeating-radial-gradient(red, yellow 10%, green 55%);   
+}

@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDpeRhLKEmThTe99VvGaRVtNh5MVfEWfu0FQwBe1c&s');
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    /* background-position:50% 0; */
+    background-clip: padding-box;
+    border:3px solid green;
+}
+/* .img1{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/de/Nature_HD_pictures.jpg');
+    background-repeat: no-repeat;
+    height: 100px;
+    width:100px; 
+    background-position:0 100%;
+} */

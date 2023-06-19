@@ -1,0 +1,6 @@
+.example{
+    border: 5px dotted green;
+    background-color: blueviolet;
+    background-clip: padding-box;
+    padding: 15px;
+}
